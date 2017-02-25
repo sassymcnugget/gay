@@ -1,0 +1,3184 @@
+fileFormatVersion: 2
+guid: 09eea59d194d4574da01f0b3abcef559
+timeCreated: 1486255231
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mobile - The World Ends With You Solo Remix - Neku_0
+    21300002: Mobile - The World Ends With You Solo Remix - Neku_1
+    21300004: Mobile - The World Ends With You Solo Remix - Neku_2
+    21300006: Mobile - The World Ends With You Solo Remix - Neku_3
+    21300008: Mobile - The World Ends With You Solo Remix - Neku_4
+    21300010: Mobile - The World Ends With You Solo Remix - Neku_5
+    21300012: Mobile - The World Ends With You Solo Remix - Neku_6
+    21300014: Mobile - The World Ends With You Solo Remix - Neku_7
+    21300016: Mobile - The World Ends With You Solo Remix - Neku_8
+    21300018: Mobile - The World Ends With You Solo Remix - Neku_9
+    21300020: Mobile - The World Ends With You Solo Remix - Neku_10
+    21300022: Mobile - The World Ends With You Solo Remix - Neku_11
+    21300024: Mobile - The World Ends With You Solo Remix - Neku_12
+    21300026: Mobile - The World Ends With You Solo Remix - Neku_13
+    21300028: Mobile - The World Ends With You Solo Remix - Neku_14
+    21300030: Mobile - The World Ends With You Solo Remix - Neku_15
+    21300032: Mobile - The World Ends With You Solo Remix - Neku_16
+    21300034: Mobile - The World Ends With You Solo Remix - Neku_17
+    21300036: Mobile - The World Ends With You Solo Remix - Neku_18
+    21300038: Mobile - The World Ends With You Solo Remix - Neku_19
+    21300040: Mobile - The World Ends With You Solo Remix - Neku_20
+    21300042: Mobile - The World Ends With You Solo Remix - Neku_21
+    21300044: Mobile - The World Ends With You Solo Remix - Neku_22
+    21300046: Mobile - The World Ends With You Solo Remix - Neku_23
+    21300048: Mobile - The World Ends With You Solo Remix - Neku_24
+    21300050: Mobile - The World Ends With You Solo Remix - Neku_25
+    21300052: Mobile - The World Ends With You Solo Remix - Neku_26
+    21300054: Mobile - The World Ends With You Solo Remix - Neku_27
+    21300056: Mobile - The World Ends With You Solo Remix - Neku_28
+    21300058: Mobile - The World Ends With You Solo Remix - Neku_29
+    21300060: Mobile - The World Ends With You Solo Remix - Neku_30
+    21300062: Mobile - The World Ends With You Solo Remix - Neku_31
+    21300064: Mobile - The World Ends With You Solo Remix - Neku_32
+    21300066: Mobile - The World Ends With You Solo Remix - Neku_33
+    21300068: Mobile - The World Ends With You Solo Remix - Neku_34
+    21300070: Mobile - The World Ends With You Solo Remix - Neku_35
+    21300072: Mobile - The World Ends With You Solo Remix - Neku_36
+    21300074: Mobile - The World Ends With You Solo Remix - Neku_37
+    21300076: Mobile - The World Ends With You Solo Remix - Neku_38
+    21300078: Mobile - The World Ends With You Solo Remix - Neku_39
+    21300080: Mobile - The World Ends With You Solo Remix - Neku_40
+    21300082: Mobile - The World Ends With You Solo Remix - Neku_41
+    21300084: Mobile - The World Ends With You Solo Remix - Neku_42
+    21300086: Mobile - The World Ends With You Solo Remix - Neku_43
+    21300088: Mobile - The World Ends With You Solo Remix - Neku_44
+    21300090: Mobile - The World Ends With You Solo Remix - Neku_45
+    21300092: Mobile - The World Ends With You Solo Remix - Neku_46
+    21300094: Mobile - The World Ends With You Solo Remix - Neku_47
+    21300096: Mobile - The World Ends With You Solo Remix - Neku_48
+    21300098: Mobile - The World Ends With You Solo Remix - Neku_49
+    21300100: Mobile - The World Ends With You Solo Remix - Neku_50
+    21300102: Mobile - The World Ends With You Solo Remix - Neku_51
+    21300104: Mobile - The World Ends With You Solo Remix - Neku_52
+    21300106: Mobile - The World Ends With You Solo Remix - Neku_53
+    21300108: Mobile - The World Ends With You Solo Remix - Neku_54
+    21300110: Mobile - The World Ends With You Solo Remix - Neku_55
+    21300112: Mobile - The World Ends With You Solo Remix - Neku_56
+    21300114: Mobile - The World Ends With You Solo Remix - Neku_57
+    21300116: Mobile - The World Ends With You Solo Remix - Neku_58
+    21300118: Mobile - The World Ends With You Solo Remix - Neku_59
+    21300120: Mobile - The World Ends With You Solo Remix - Neku_60
+    21300122: Mobile - The World Ends With You Solo Remix - Neku_61
+    21300124: Mobile - The World Ends With You Solo Remix - Neku_62
+    21300126: Mobile - The World Ends With You Solo Remix - Neku_63
+    21300128: Mobile - The World Ends With You Solo Remix - Neku_64
+    21300130: Mobile - The World Ends With You Solo Remix - Neku_65
+    21300132: Mobile - The World Ends With You Solo Remix - Neku_66
+    21300134: Mobile - The World Ends With You Solo Remix - Neku_67
+    21300136: Mobile - The World Ends With You Solo Remix - Neku_68
+    21300138: Mobile - The World Ends With You Solo Remix - Neku_69
+    21300140: Mobile - The World Ends With You Solo Remix - Neku_70
+    21300142: Mobile - The World Ends With You Solo Remix - Neku_71
+    21300144: Mobile - The World Ends With You Solo Remix - Neku_72
+    21300146: Mobile - The World Ends With You Solo Remix - Neku_73
+    21300148: Mobile - The World Ends With You Solo Remix - Neku_74
+    21300150: Mobile - The World Ends With You Solo Remix - Neku_75
+    21300152: Mobile - The World Ends With You Solo Remix - Neku_76
+    21300154: Mobile - The World Ends With You Solo Remix - Neku_78
+    21300156: Mobile - The World Ends With You Solo Remix - Neku_79
+    21300158: Mobile - The World Ends With You Solo Remix - Neku_80
+    21300160: Mobile - The World Ends With You Solo Remix - Neku_81
+    21300162: Mobile - The World Ends With You Solo Remix - Neku_82
+    21300164: Mobile - The World Ends With You Solo Remix - Neku_83
+    21300166: Mobile - The World Ends With You Solo Remix - Neku_84
+    21300168: Mobile - The World Ends With You Solo Remix - Neku_85
+    21300170: Mobile - The World Ends With You Solo Remix - Neku_86
+    21300172: Mobile - The World Ends With You Solo Remix - Neku_87
+    21300174: Mobile - The World Ends With You Solo Remix - Neku_88
+    21300176: Mobile - The World Ends With You Solo Remix - Neku_89
+    21300178: Mobile - The World Ends With You Solo Remix - Neku_90
+    21300180: Mobile - The World Ends With You Solo Remix - Neku_91
+    21300182: Mobile - The World Ends With You Solo Remix - Neku_92
+    21300184: Mobile - The World Ends With You Solo Remix - Neku_93
+    21300186: Mobile - The World Ends With You Solo Remix - Neku_94
+    21300188: Mobile - The World Ends With You Solo Remix - Neku_95
+    21300190: Mobile - The World Ends With You Solo Remix - Neku_96
+    21300192: Mobile - The World Ends With You Solo Remix - Neku_97
+    21300194: Mobile - The World Ends With You Solo Remix - Neku_98
+    21300196: Mobile - The World Ends With You Solo Remix - Neku_99
+    21300198: Mobile - The World Ends With You Solo Remix - Neku_100
+    21300200: Mobile - The World Ends With You Solo Remix - Neku_101
+    21300202: Mobile - The World Ends With You Solo Remix - Neku_102
+    21300204: Mobile - The World Ends With You Solo Remix - Neku_103
+    21300206: Mobile - The World Ends With You Solo Remix - Neku_104
+    21300208: Mobile - The World Ends With You Solo Remix - Neku_105
+    21300210: Mobile - The World Ends With You Solo Remix - Neku_106
+    21300212: Mobile - The World Ends With You Solo Remix - Neku_107
+    21300214: Mobile - The World Ends With You Solo Remix - Neku_108
+    21300216: Mobile - The World Ends With You Solo Remix - Neku_109
+    21300218: Mobile - The World Ends With You Solo Remix - Neku_110
+    21300220: Mobile - The World Ends With You Solo Remix - Neku_111
+    21300222: Mobile - The World Ends With You Solo Remix - Neku_112
+    21300224: Mobile - The World Ends With You Solo Remix - Neku_113
+    21300226: Mobile - The World Ends With You Solo Remix - Neku_114
+    21300228: Mobile - The World Ends With You Solo Remix - Neku_115
+    21300230: Mobile - The World Ends With You Solo Remix - Neku_116
+    21300232: Mobile - The World Ends With You Solo Remix - Neku_117
+    21300234: Mobile - The World Ends With You Solo Remix - Neku_118
+    21300236: Mobile - The World Ends With You Solo Remix - Neku_120
+    21300238: Mobile - The World Ends With You Solo Remix - Neku_121
+    21300240: Mobile - The World Ends With You Solo Remix - Neku_122
+    21300242: Mobile - The World Ends With You Solo Remix - Neku_123
+    21300244: Mobile - The World Ends With You Solo Remix - Neku_124
+    21300246: Mobile - The World Ends With You Solo Remix - Neku_125
+    21300248: Mobile - The World Ends With You Solo Remix - Neku_126
+    21300250: Mobile - The World Ends With You Solo Remix - Neku_127
+    21300252: Mobile - The World Ends With You Solo Remix - Neku_128
+    21300254: Mobile - The World Ends With You Solo Remix - Neku_129
+    21300256: Mobile - The World Ends With You Solo Remix - Neku_130
+    21300258: Mobile - The World Ends With You Solo Remix - Neku_131
+    21300260: Mobile - The World Ends With You Solo Remix - Neku_132
+    21300262: Mobile - The World Ends With You Solo Remix - Neku_133
+    21300264: Mobile - The World Ends With You Solo Remix - Neku_134
+    21300266: Mobile - The World Ends With You Solo Remix - Neku_135
+    21300268: Mobile - The World Ends With You Solo Remix - Neku_136
+    21300270: Mobile - The World Ends With You Solo Remix - Neku_137
+    21300272: Mobile - The World Ends With You Solo Remix - Neku_138
+    21300274: Mobile - The World Ends With You Solo Remix - Neku_139
+    21300276: Mobile - The World Ends With You Solo Remix - Neku_140
+    21300278: Mobile - The World Ends With You Solo Remix - Neku_141
+    21300280: Mobile - The World Ends With You Solo Remix - Neku_142
+    21300282: Mobile - The World Ends With You Solo Remix - Neku_143
+    21300284: Mobile - The World Ends With You Solo Remix - Neku_144
+    21300286: Mobile - The World Ends With You Solo Remix - Neku_145
+    21300288: Mobile - The World Ends With You Solo Remix - Neku_147
+    21300290: Mobile - The World Ends With You Solo Remix - Neku_148
+    21300292: Mobile - The World Ends With You Solo Remix - Neku_149
+    21300294: Mobile - The World Ends With You Solo Remix - Neku_150
+    21300296: Mobile - The World Ends With You Solo Remix - Neku_151
+    21300298: Mobile - The World Ends With You Solo Remix - Neku_152
+    21300300: Mobile - The World Ends With You Solo Remix - Neku_153
+    21300302: Mobile - The World Ends With You Solo Remix - Neku_154
+    21300304: Mobile - The World Ends With You Solo Remix - Neku_155
+    21300306: Mobile - The World Ends With You Solo Remix - Neku_156
+    21300308: Mobile - The World Ends With You Solo Remix - Neku_157
+    21300310: Mobile - The World Ends With You Solo Remix - Neku_159
+    21300312: Mobile - The World Ends With You Solo Remix - Neku_160
+    21300314: Mobile - The World Ends With You Solo Remix - Neku_161
+    21300316: Mobile - The World Ends With You Solo Remix - Neku_162
+    21300318: Mobile - The World Ends With You Solo Remix - Neku_163
+    21300320: Mobile - The World Ends With You Solo Remix - Neku_164
+    21300322: Mobile - The World Ends With You Solo Remix - Neku_165
+    21300324: Mobile - The World Ends With You Solo Remix - Neku_166
+    21300326: Mobile - The World Ends With You Solo Remix - Neku_167
+    21300328: Mobile - The World Ends With You Solo Remix - Neku_168
+    21300330: Mobile - The World Ends With You Solo Remix - Neku_170
+    21300332: Mobile - The World Ends With You Solo Remix - Neku_171
+    21300334: Mobile - The World Ends With You Solo Remix - Neku_172
+    21300336: Mobile - The World Ends With You Solo Remix - Neku_173
+    21300338: Mobile - The World Ends With You Solo Remix - Neku_174
+    21300340: Mobile - The World Ends With You Solo Remix - Neku_175
+    21300342: Mobile - The World Ends With You Solo Remix - Neku_176
+    21300344: Mobile - The World Ends With You Solo Remix - Neku_177
+    21300346: Mobile - The World Ends With You Solo Remix - Neku_178
+    21300348: Mobile - The World Ends With You Solo Remix - Neku_179
+    21300350: Mobile - The World Ends With You Solo Remix - Neku_180
+    21300352: Mobile - The World Ends With You Solo Remix - Neku_181
+    21300354: Mobile - The World Ends With You Solo Remix - Neku_182
+    21300356: Mobile - The World Ends With You Solo Remix - Neku_183
+    21300358: Mobile - The World Ends With You Solo Remix - Neku_184
+    21300360: Mobile - The World Ends With You Solo Remix - Neku_185
+    21300362: Mobile - The World Ends With You Solo Remix - Neku_186
+    21300364: Mobile - The World Ends With You Solo Remix - Neku_187
+    21300366: Mobile - The World Ends With You Solo Remix - Neku_188
+    21300368: Mobile - The World Ends With You Solo Remix - Neku_189
+    21300370: Mobile - The World Ends With You Solo Remix - Neku_190
+    21300372: Mobile - The World Ends With You Solo Remix - Neku_191
+    21300374: Mobile - The World Ends With You Solo Remix - Neku_192
+    21300376: Mobile - The World Ends With You Solo Remix - Neku_193
+    21300378: Mobile - The World Ends With You Solo Remix - Neku_194
+    21300380: Mobile - The World Ends With You Solo Remix - Neku_195
+    21300382: Mobile - The World Ends With You Solo Remix - Neku_196
+    21300384: Mobile - The World Ends With You Solo Remix - Neku_197
+    21300386: Mobile - The World Ends With You Solo Remix - Neku_198
+    21300388: Mobile - The World Ends With You Solo Remix - Neku_199
+    21300390: Mobile - The World Ends With You Solo Remix - Neku_200
+    21300392: Mobile - The World Ends With You Solo Remix - Neku_201
+    21300394: Mobile - The World Ends With You Solo Remix - Neku_202
+    21300396: Mobile - The World Ends With You Solo Remix - Neku_203
+    21300398: Mobile - The World Ends With You Solo Remix - Neku_204
+    21300400: Mobile - The World Ends With You Solo Remix - Neku_205
+    21300402: Mobile - The World Ends With You Solo Remix - Neku_206
+    21300404: Mobile - The World Ends With You Solo Remix - Neku_207
+    21300406: Mobile - The World Ends With You Solo Remix - Neku_208
+    21300408: Mobile - The World Ends With You Solo Remix - Neku_209
+    21300410: Mobile - The World Ends With You Solo Remix - Neku_210
+    21300412: Mobile - The World Ends With You Solo Remix - Neku_211
+    21300414: Mobile - The World Ends With You Solo Remix - Neku_212
+    21300416: Mobile - The World Ends With You Solo Remix - Neku_213
+    21300418: Mobile - The World Ends With You Solo Remix - Neku_214
+    21300420: Mobile - The World Ends With You Solo Remix - Neku_215
+    21300422: Mobile - The World Ends With You Solo Remix - Neku_216
+    21300424: Mobile - The World Ends With You Solo Remix - Neku_217
+    21300426: Mobile - The World Ends With You Solo Remix - Neku_218
+    21300428: Mobile - The World Ends With You Solo Remix - Neku_219
+    21300430: Mobile - The World Ends With You Solo Remix - Neku_220
+    21300432: Mobile - The World Ends With You Solo Remix - Neku_221
+    21300434: Mobile - The World Ends With You Solo Remix - Neku_222
+    21300436: Mobile - The World Ends With You Solo Remix - Neku_223
+    21300438: Mobile - The World Ends With You Solo Remix - Neku_224
+    21300440: Mobile - The World Ends With You Solo Remix - Neku_225
+    21300442: Mobile - The World Ends With You Solo Remix - Neku_226
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1506
+        width: 58
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1497
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1417
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1408
+        width: 65
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_4
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1436
+        width: 44
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_5
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1412
+        width: 44
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_6
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1434
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_7
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1435
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1436
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_9
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1408
+        width: 101
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1388
+        width: 82
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_11
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1398
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_12
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1304
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_13
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1311
+        width: 45
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1290
+        width: 44
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_15
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1314
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_16
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1314
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_17
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1315
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_18
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1312
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1301
+        width: 96
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1293
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_21
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1296
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1303
+        width: 69
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1191
+        width: 52
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_24
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1198
+        width: 42
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_25
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1195
+        width: 42
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_26
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1195
+        width: 41
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_27
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1195
+        width: 42
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1191
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_29
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1182
+        width: 86
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_30
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1185
+        width: 75
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_31
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1191
+        width: 69
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_32
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1189
+        width: 65
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_33
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1185
+        width: 50
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_34
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1081
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_35
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1081
+        width: 45
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_36
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1081
+        width: 41
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_37
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1081
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_38
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1081
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1081
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_40
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1081
+        width: 70
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1081
+        width: 73
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_42
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1081
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_43
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1081
+        width: 64
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_44
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 1081
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_45
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1081
+        width: 42
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_46
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1081
+        width: 43
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_47
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1081
+        width: 42
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_48
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1081
+        width: 41
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_49
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1081
+        width: 40
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_50
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1081
+        width: 40
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 933
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_52
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 911
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_53
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 867
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_54
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 896
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_55
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 949
+        width: 92
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_56
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 909
+        width: 82
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 925
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_58
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 889
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_59
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 888
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_60
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 874
+        width: 59
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_61
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 927
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_62
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 872
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_63
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 923
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_64
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 860
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_65
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 908
+        width: 53
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_66
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 889
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 809
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_68
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 783
+        width: 61
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_69
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 774
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_70
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 852
+        width: 85
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_71
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 788
+        width: 68
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_72
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 788
+        width: 49
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_73
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 786
+        width: 55
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_74
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 786
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_75
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 826
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_76
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 823
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_78
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 814
+        width: 37
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_79
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 663
+        width: 62
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_80
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 744
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_81
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 749
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_82
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 710
+        width: 105
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_83
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 693
+        width: 83
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_84
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 782
+        width: 65
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_85
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 781
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_86
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 751
+        width: 59
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_87
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 726
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_88
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 756
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_89
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 723
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_90
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 742
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_91
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 750
+        width: 39
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_92
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 771
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_93
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 694
+        width: 40
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_94
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 657
+        width: 84
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_95
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 642
+        width: 68
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_96
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 718
+        width: 116
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_97
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 640
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_98
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 657
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_99
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 621
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_100
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 623
+        width: 69
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_101
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 621
+        width: 92
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_102
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 586
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_103
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 678
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_104
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 630
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_105
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 628
+        width: 56
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_106
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 608
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_107
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 621
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_108
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 628
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_109
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 645
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_110
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 573
+        width: 40
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_111
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 649
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_112
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 530
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_113
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 522
+        width: 37
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_114
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 543
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_116
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 541
+        width: 86
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_117
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 482
+        width: 62
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_118
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 522
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_120
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 525
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_121
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 531
+        width: 53
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_122
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 501
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_123
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 403
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_124
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 498
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_125
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 440
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_126
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 517
+        width: 77
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_127
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 483
+        width: 76
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_128
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 396
+        width: 59
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_129
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 439
+        width: 38
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_130
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 490
+        width: 58
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_131
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 468
+        width: 37
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_132
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 519
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_133
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 421
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_134
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 416
+        width: 53
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_135
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 429
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_136
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 452
+        width: 41
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_137
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 482
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_138
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 375
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_139
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 411
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_140
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 396
+        width: 59
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_141
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 386
+        width: 66
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_142
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 420
+        width: 67
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 306
+        width: 65
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_144
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 388
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_145
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 387
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_147
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 311
+        width: 37
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_148
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 283
+        width: 91
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_149
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 251
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 325
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_151
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 291
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_152
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 278
+        width: 62
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_153
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 278
+        width: 54
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_154
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 290
+        width: 82
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_155
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 281
+        width: 65
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_156
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 281
+        width: 54
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_157
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 321
+        width: 59
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_159
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 296
+        width: 37
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_160
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 318
+        width: 65
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_161
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 311
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_162
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 303
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_163
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 314
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_164
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_165
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 150
+        width: 65
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_166
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 202
+        width: 74
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_167
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 214
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_168
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 200
+        width: 37
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_170
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 209
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_171
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 205
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_172
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 199
+        width: 59
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_173
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 199
+        width: 48
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_174
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 199
+        width: 49
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_175
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 188
+        width: 115
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_176
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 126
+        width: 75
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_177
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 102
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_178
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 194
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_179
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 155
+        width: 69
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_180
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 155
+        width: 46
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_181
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 191
+        width: 81
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_182
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 169
+        width: 67
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_183
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 169
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_184
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 108
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_185
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 100
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_186
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 120
+        width: 37
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_187
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 100
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_188
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 98
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_189
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 98
+        width: 63
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_190
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 98
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_191
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 99
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_192
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 99
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_193
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 94
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_194
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 97
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_195
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 70
+        width: 57
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_196
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 70
+        width: 52
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_197
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_198
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 141
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_199
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 77
+        width: 111
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_200
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 67
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_201
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 98
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_202
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 52
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_203
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_204
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 0
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_205
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 118
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_206
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 0
+        width: 93
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_207
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_208
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 117
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_209
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 0
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_210
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 0
+        width: 123
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_211
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_212
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 66
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_213
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 0
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_214
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 0
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_215
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 0
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_216
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 72
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_217
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 51
+        width: 113
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_218
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 64
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_219
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 0
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_220
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 0
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_221
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 0
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_222
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 0
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_223
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 0
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_224
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 0
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_225
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 0
+        width: 124
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Mobile - The World Ends With You Solo Remix - Neku_226
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 0
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
