@@ -23,6 +23,7 @@ GameObject:
   - component: {fileID: 65554128663710886}
   - component: {fileID: 54763618624903376}
   - component: {fileID: 114454502301801198}
+  - component: {fileID: 114318649901982572}
   m_Layer: 0
   m_Name: Macintosh Plus Bust
   m_TagString: Untagged
@@ -37,7 +38,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1465820666008730}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.85, y: 1000, z: 0}
+  m_LocalPosition: {x: 1, y: 2.1, z: 0}
   m_LocalScale: {x: 0.30633777, y: 0.30633777, z: 0.30633777}
   m_Children: []
   m_Father: {fileID: 0}
@@ -70,6 +71,25 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 6.859999, y: 12.78, z: 1.4968253}
   m_Center: {x: 0.00000077828656, y: 0, z: 0.17647214}
+--- !u!114 &114318649901982572
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1465820666008730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37efcf5f84949794aa3cb6631488f796, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogueList:
+  - "\u30EA\u30B5\u30D5\u30E9\u30F3\u30AF420 /\u73FE\u4EE3\u306E\u30B3\u30F3\u30D4\u30E5\u30FC "
+  - Poob, mayne
+  - Woohoo, Haha
+  - Gimme The tasty
+  - Wow, queen!
+  speechBubblePrefab: {fileID: 1316508361057186, guid: 3a23392cee25cba40ae2651240290d15,
+    type: 2}
 --- !u!114 &114454502301801198
 MonoBehaviour:
   m_ObjectHideFlags: 1

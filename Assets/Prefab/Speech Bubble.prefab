@@ -21,8 +21,9 @@ GameObject:
   - component: {fileID: 224925339136071806}
   - component: {fileID: 222797892818679320}
   - component: {fileID: 114619529720896164}
+  - component: {fileID: 114596193002179862}
   m_Layer: 5
-  m_Name: Speech Bubble Normal
+  m_Name: Speech Bubble
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45,6 +46,33 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &114596193002179862
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1316508361057186}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f7d4696a8c476a4898f1b410f2c5143, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speechBubbleTypes:
+  - {fileID: 21300000, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300002, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300004, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300006, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300008, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300010, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300012, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300014, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300016, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300018, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300020, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300022, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300024, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300026, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
+  - {fileID: 21300028, guid: 2437f2e2c0b74024dabf6f89dfcc1e4a, type: 3}
 --- !u!114 &114608492320564218
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -65,7 +93,7 @@ MonoBehaviour:
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 3f2226c0edee7ea4c8c6d6c8d06e64be, type: 3}
     m_FontSize: 14
     m_FontStyle: 0
     m_BestFit: 1
