@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 114454502301801198}
   - component: {fileID: 114318649901982572}
   m_Layer: 0
-  m_Name: Macintosh Plus Bust
+  m_Name: Macintosh Plus Bust 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -84,10 +84,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueList:
   - "\u30EA\u30B5\u30D5\u30E9\u30F3\u30AF420 /\u73FE\u4EE3\u306E\u30B3\u30F3\u30D4\u30E5\u30FC "
-  - i am upsetti spaghetti
-  - '>:^('
-  - '[ A N G E R E Y ]'
-  - justin stop being gay
+  - Poob, mayne
+  - Woohoo, Haha
+  - Gimme The tasty
+  - Wow, queen!
   speechBubblePrefab: {fileID: 1316508361057186, guid: 3a23392cee25cba40ae2651240290d15,
     type: 2}
 --- !u!114 &114454502301801198
